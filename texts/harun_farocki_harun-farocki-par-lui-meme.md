@@ -30,7 +30,7 @@ J'ai été à nouveau expulsé de l'école de cinéma, cette fois avec une quinz
 ### 1969
 J'ai fait un ourt métrage avec un budget de 15.000 Deutsch Mark (*Feu inextinguible*). Les critiques m'ont accusé de laisser-aller technique et de calculs excessifs. à cette époque les choses évoluaient rapidement et quelques mois plus tard, le film n'a plus été considéré comme une objet froid ou maladroit: il a été reconnu, même au-delà du mouvement anti-guerre du Vietnam.
 
-###1970
+### 1970
 Nous avions le projet avec Hartmut Bitomsky. D'adapter le *Capital* de Karl Marx: la première partie, *La Division de tous les jours*, a été achevée cette année là. Nous avons lu Marx et ses commentaires et  textes sur la sémiotique, la cybernétique, la didactique et les machines intelligentes. Notre programme: "faire du cinéma de façon scientifique et faire des sciences de façon politique."
 
 ### 1971-1977
@@ -52,10 +52,10 @@ Pendant de nombreuses années, j'avais procédé en réunissant de la matière q
 À la fin des années 1960, j'avais entendu parler d'un film de formation pour apprendre aux managers à gérer leurs employés. Ils étaient censés s'entraîner par exemple à démolir une personne et à en complimenter une  autre. J'ai alors proposé à un producteur télé de faire un film sur des séminaires de management. Quand le film *Endoctrinement* (1986) a été diffusé, il a capté presque un tiers de l'audience.
 J'ai appris qu'en 1944, des bombardiers américains venus d'Italie pour attaquer des usines en pologne avaient pris des photos aériennes d'Auschwitz. C'est une métaphore très forte: des images des camps ont été faites sans que personne ne s'en aperçoivent et n'ont pu être déchiffrées que des décennies plus tard. La prochaine destruction massive par les armes nucléaires était mon point de départ. Presque personne n'a réagi à cette tentative de relier Auschwitz aux armements actuels. J'ai travaillé sur deux version (*Images de guerre*, 1987; *Images du monde et inscription de la guerre*, 1988) pendant près de deux ans, essentiellement à la table de montage.
 
-###1990-1992
+### 1990-1992
 En 1990, j'ai lu un livre sur la chute de Ceaucescu, dirigé par Hubertus von Ameluncen et Andrei Ujica. J'ai eu l'idée de faire un film où des personnes qui comprennent quelque chose à la politique et aux images analyseraient en détail une série d'images de ces quelques jours de décembre 1989. Réaliser un film comme un séminaire. Andrei Ujica a suggéré que nous le fassions ensenble et pendant l'été 1991, nous sommes allés à Bucarest. Après avoir vu et revu des images qui montraient des dizaines voire des centaines de milliers de gens se réunir pour faire tomber le régime, il semblait absurde d'appeler cela une révolution télévisuelle. Nous avons abandonné notre idée initiale de mener une analyse filmée et avons décidé de reconstituer les cinq jours d'une révolution. du 21 au 25 décembre 1989, à partir de sources variées et de la façon la plus complète possible. Je n'avais jamais imaginé qu'un film au sujet d'une révolution me tomberait dessus comme ça. Qui plus est un film sur une révolution qui n'instaurait pas mais abolissait le socialisme.
 
-###1994-1995
+### 1994-1995
 J'ai parlé à Werner Dütsch de la chaîne WDR d'un film que je souhaitais faire pour le centième anniversaire du cinéma. Un film qui traiterait du premier motif du premier film jamais présenté en public: *La Sortie de l'usine Lunière à Lyon* (1895). J'ai regardé des longs métrages des films documentaires, des films industriels ainsi que des vidéos d'entreprise.
 
 En 1995, Régis Durand m'a invité à contribuer à l'exposition organisée à Villeneuve d'Ascq (Lille), me demandant de faire un essai en vidéo sur mon propre travail. [...] Je voulais travailler en double écran. J'attendais l'occasion depuis que j'avais vu *Numéro deux* de Godard (1975).
