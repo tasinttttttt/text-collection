@@ -1,5 +1,6 @@
 # Text Collection
 collection of texts (🔗 = links, 📖 = texts)
+(backups in `./texts`)
 
 1. [📖 Harun Farocki — "Harun Farocki par lui-même"](./texts/harun_farocki-harun-farocki-par-lui-meme.md)
 2. [🔗 Marie et Julien — "STARTUPS DE MERDE, VOUS DEVRIEZ AVOIR HONTE."](https://mariejulien.com/post/2016/05/22/Startups-de-merde%2C-vous-devriez-avoir-honte)
@@ -8,3 +9,4 @@ collection of texts (🔗 = links, 📖 = texts)
 5. [🔗 Evgeny Morozov — The Planning Machine](http://www.newyorker.com/magazine/2014/10/13/planning-machine)
 6. [📖 Thierry Paquot — Hassan Fathy, construire avec ou pour le peuple?](./texts/thierry_paquot-hassan-fathy-construire-avec-ou-pour-le-peuple.md)
 7. [🔗 Resident Advisor — An Alternate History of Sexuality in Club Culture](https://www.residentadvisor.net/features/1927)
+8. [🔗 Documentations - La Coupure #2](https://documentations.art/La-Coupure-2)
