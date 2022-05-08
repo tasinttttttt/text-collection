@@ -15,3 +15,4 @@
 7. [🔗 Resident Advisor — An Alternate History of Sexuality in Club Culture](https://www.residentadvisor.net/features/1927)
 8. [🔗 Documentations - La Coupure #2](https://documentations.art/La-Coupure-2)
 9. [📖 Isabelle Stengers - Imaginaire, imagination](./texts/isabelle_stengers-imaginaire-imagination.md)
+10. [🔗 Lawrence Lessig - Code is Law](https://www.harvardmagazine.com/2000/01/code-is-law-html)
