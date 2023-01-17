@@ -4,7 +4,7 @@
 
 📖 = files
 
-(downloadable text backups in `./texts`)
+(downloadable backups in `./texts`)
 
 1. [📖 Harun Farocki — "Harun Farocki par lui-même"](./texts/harun_farocki-harun-farocki-par-lui-meme.md)
 2. [🔗 Marie et Julien — "STARTUPS DE MERDE, VOUS DEVRIEZ AVOIR HONTE."](https://mariejulien.com/post/2016/05/22/Startups-de-merde%2C-vous-devriez-avoir-honte)
@@ -16,3 +16,4 @@
 8. [🔗 Documentations - La Coupure #2](https://documentations.art/La-Coupure-2)
 9. [📖 Isabelle Stengers - Imaginaire, imagination](./texts/isabelle_stengers-imaginaire-imagination.md)
 10. [🔗 Lawrence Lessig - Code is Law](https://www.harvardmagazine.com/2000/01/code-is-law-html)
+11. [🔗 Interview with Ghassan Hage](https://www.materialculture.nl/en/provocations/interview-ghassan-hage)
