@@ -17,3 +17,4 @@
 9. [📖 Isabelle Stengers - Imaginaire, imagination](./texts/isabelle_stengers-imaginaire-imagination.md)
 10. [🔗 Lawrence Lessig - Code is Law](https://www.harvardmagazine.com/2000/01/code-is-law-html)
 11. [🔗 Interview with Ghassan Hage](https://www.materialculture.nl/en/provocations/interview-ghassan-hage)
+12. [📖 Extrait de *Émancipation* de Federico Tarragoni](./texts/federico_tarragoni-contre-l-emancipation.md)
