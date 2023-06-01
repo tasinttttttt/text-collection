@@ -1,7 +1,7 @@
 # How a Working-Class Couple Amassed a Priceless Art Collection
 ## by Jed Lipinski — February 14th, 2013
 
-![Vogels](https://d33ypg4xwx0n86.cloudfront.net/direct?url=http%3A%2F%2Fimages.mentalfloss.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Farticle_640x430%2Fpublic%2F1098_sm.jpg&resize=w576)
+![Vogels](https://images2.cloudfront.net/direct?url=http%3A%2F%2Fimages.mentalfloss.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Farticle_640x430%2Fpublic%2F1098_sm.jpg&resize=w576)
 
 Herb Vogel never earned more than $23,000 a year. Born and raised in Harlem, Vogel worked for the post office in Manhattan. He spent nearly 50 years living in a 450-square-foot one-bedroom apartment with his wife, Dorothy, a reference librarian at the Brooklyn Public Library. They lived frugally. They didn’t travel. They ate TV dinners. Aside from a menagerie of pets, Herb and Dorothy had just one indulgence: art. But their passion for collecting turned them into unlikely celebrities, working-class heroes in a world of Manhattan elites.
 
