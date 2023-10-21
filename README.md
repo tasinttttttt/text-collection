@@ -19,3 +19,4 @@
 11. [🔗 Interview with Ghassan Hage](https://www.materialculture.nl/en/provocations/interview-ghassan-hage)
 12. [📖 Extrait de *Émancipation* de Federico Tarragoni](./texts/federico_tarragoni-contre-l-emancipation.md)
 13. [📖 Pierre Bourdieu *Contre la destruction d'une civilisation*](./texts/pierre_bourdieu-contre-la-destruction-d-une-civilisation.md)
+14. [📖 Marek Edelman *Letter to the leaders of Palestinian military, paramilitary, guerilla organizations*](./texts/marek_edelman-to-all-leaders-of-palestinian-military-organisations.md)
