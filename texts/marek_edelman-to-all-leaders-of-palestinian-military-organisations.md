@@ -1,5 +1,6 @@
 	Letter from Marek Edelman to leaders of Palestinian military organizations, dated August 1 2002 (in reference to suicide attacks).
-	Marek Edelman (Yiddish: מאַרעק עדעלמאַן, born either 1919 in Homel,[3] or 1922 in Warsaw – October 2, 2009, in Warsaw, Poland)[1] was a Polish political and social activist and cardiologist. Edelman was the last surviving leader of the Warsaw Ghetto Uprising. Long before his death, he was the last one to stay in the Polish People's Republic despite harassment by the Communist authorities.
+	Marek Edelman (Yiddish: מאַרעק עדעלמאַן, born either 1919 in Homel,[3] or 1922 in Warsaw – October 2, 2009, in Warsaw, Poland)[1] was a Polish political and social activist and cardiologist.
+	Edelman was the last surviving leader of the Warsaw Ghetto Uprising. Long before his death, he was the last one to stay in the Polish People's Republic despite harassment by the Communist authorities.
 	
 To all leaders of Palestinian military, paramilitary and guerrilla organizations; to all soldiers of Palestinian militant groups:
 
