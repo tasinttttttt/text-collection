@@ -1,0 +1,26 @@
+# Kakonomics. Or, the strange preference for Low quality outcomes
+## Gloria Origgi
+    
+    January 17 2011, http://gloriaoriggi.blogspot.com/2011/01/kakonomics-or-strange-preference-for.html
+
+
+This is my reply to the annual EDGE question. This year's question was: WHAT SCIENTIFIC CONCEPT WOULD IMPROVE EVERYBODY'S COGNITIVE TOOLKIT? 
+
+Kakonomics, or the strange preference for Low-quality outcomes
+
+I think that an important concept to understand why does life suck so often is Kakonomics, or the weird preference for Low-quality payoffs.
+
+Standard game-theoretical approaches posit that, whatever people are trading (ideas, services, or goods), each one wants to receive High-quality work from others. Let's stylize the situation so that goods can be exchanged only at two quality-levels: High and Low. Kakonomics describes cases where people not only have standard preferences to receive a High-quality good and deliver a Low-quality one (the standard sucker's payoff) but they actually prefer to deliver a Low-quality good and receive a Low-quality one, that is, they connive on a Low-Low exchange.
+
+How can it ever be possible? And how can it be rational? Even when we are lazy, and prefer to deliver a Low-quality outcome (like prefer to write a piece for a mediocre journal provided that they do not ask one to do too much work), we still would have preferred to work less and receive more, that is deliver Low-quality and receive High-quality. Kakonomics is different: Here, we not only prefer to deliver a Low-quality good, but also, prefer to receive a Low-quality good in exchange!
+
+Kakonomics is the strange — yet widespread — preference for mediocre exchanges insofar as nobody complains about. Kakonomic worlds are worlds in which people not only live with each other's laxness, but expect it: I trust you not to keep your promises in full because I want to be free not to keep mine and not to feel bad about it. What makes it an interesting and weird case is that, in all kakonomic exchanges, the two parties seem to have a double deal: an official pact in which both declare their intention to exchange at a High-quality level, and a tacit accord whereby discounts are not only allowed but expected. It becomes a form of tacit mutual connivance. Thus, nobody is free-riding: Kakonomics is regulated by a tacit social norm of discount on quality, a mutual acceptance for a mediocre outcome that satisfies both parties, as long as they go on saying publicly that the exchange is in fact at a High-quality level.
+
+Take an example: A well-established best-seller author has to deliver his long overdue manuscript to his publisher. He has a large audience, and knows very well that people will buy his book just because of his name and anyway, the average reader doesn't read more than the first chapter. His publisher knows it as well…Thus, the author decides to deliver to the publisher the new manuscript with a stunning incipit and a mediocre plot (the Low-quality outcome): she is happy with it, congratulates him as she had received a masterpiece (the High-quality rhetoric) and they are both satisfied. The author's preference is not only to deliver a Low-quality work, but also that the publisher gives back the same, for example by avoiding to provide a too serious editing and going on publishing. They trust each other's untrustworthiness, and connive on a mutual advantageous Low outcome. Whenever there is a tacit deal to converge to Low-quality with mutual advantages, we are dealing with a case of Kakonomics.
+
+Paradoxically, if one of the two parties delivers a High-quality outcome instead of the expected Low-quality one, the other party resents it as a breach of trust, even if he may not acknowledge it openly. In the example, the author may resent the publisher if she decides to deliver a High-quality editing. Her being trustworthy in this relation means to deliver Low-quality too. Contrary to the standard Prisoner Dilemma game, the willingness to repeat an interaction with someone is ensured if he or she delivers Low-quality too rather than High-quality.
+
+
+Kakonomics is not always bad. Sometimes it allows a certain tacitly negotiated discount that makes life more relaxing for everybody. As one friend who was renovating a country house in Tuscany told me once: "Italian builders never deliver when they promise, but the good thing is they do not expect you to pay them when you promise either."
+
+But the major problem of Kakonomics — that in ancient Greek means the economics of the worst — and the reason why it is a form of collective insanity so difficult to eradicate, is that each Low-quality exchange is a local equilibrium in which both parties are satisfied, but each of these exchanges erodes the overall system in the long run. So, the threat to good collective outcomes doesn't come only from free riders and predators, as mainstream social sciences teach us, but also from well-organized norms of Kakonomics that regulate exchanges for the worse. The cement of society is not just cooperation for the good: in order to understand why life sucks, we should look also at norms of cooperation for a local optimum and a common worse.

@@ -4,7 +4,7 @@
 
 📖 = files
 
-(downloadable backups in `./texts`)
+(All texts are backed up in markdown format here: [./texts](./texts))
 
 1. [📖 Harun Farocki *Harun Farocki par lui-même*](./texts/harun_farocki-harun-farocki-par-lui-meme.md)
 2. [🔗 Marie et Julien *STARTUPS DE MERDE, VOUS DEVRIEZ AVOIR HONTE.*](https://mariejulien.com/post/2016/05/22/Startups-de-merde%2C-vous-devriez-avoir-honte)
@@ -21,3 +21,4 @@
 13. [📖 Pierre Bourdieu *Contre la destruction d'une civilisation*](./texts/pierre_bourdieu-contre-la-destruction-d-une-civilisation.md)
 14. [📖 Marek Edelman *Letter to the leaders of Palestinian military, paramilitary, guerilla organizations*](./texts/marek_edelman-to-all-leaders-of-palestinian-military-organisations.md)
 15. [📖 Theodore Kim *The Vietnamese Computer Scientist who made Toy Story Possible*](./texts/theodore_kim-the-vitnamese-computer-scientist-who-made-toy-story-possible.md)
+16. [🔗 Gloria Origgi *Kakonomics. Or, the strange preference for Low quality outcomes*](http://gloriaoriggi.blogspot.com/2011/01/kakonomics-or-strange-preference-for.html)
