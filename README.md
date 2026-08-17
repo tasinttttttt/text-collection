@@ -23,4 +23,4 @@
 15. [📖 Theodore Kim *The Vietnamese Computer Scientist who made Toy Story Possible*](./texts/theodore_kim-the-vietnamese-computer-scientist-who-made-toy-story-possible.md)
 16. [🔗 Gloria Origgi *Kakonomics. Or, the strange preference for Low quality outcomes*](http://gloriaoriggi.blogspot.com/2011/01/kakonomics-or-strange-preference-for.html)
 17. [🔗 David Bandurski *Goldfish Memories*](https://chinamediaproject.org/2024/05/27/goldfish-memories/)
-18. [🔗 Mathild Habert *Eva W*](https://www.rotoluxpress.com/catalogue/eva-w)
+18. [🔗 Mathilde Habert *Eva W*](https://www.rotoluxpress.com/catalogue/eva-w)
