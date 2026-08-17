@@ -20,7 +20,7 @@
 12. [📖 Extrait de *Émancipation* de Federico Tarragoni](./texts/federico_tarragoni-contre-l-emancipation.md)
 13. [📖 Pierre Bourdieu *Contre la destruction d'une civilisation*](./texts/pierre_bourdieu-contre-la-destruction-d-une-civilisation.md)
 14. [📖 Marek Edelman *Letter to the leaders of Palestinian military, paramilitary, guerilla organizations*](./texts/marek_edelman-to-all-leaders-of-palestinian-military-organisations.md)
-15. [📖 Theodore Kim *The Vietnamese Computer Scientist who made Toy Story Possible*](./texts/theodore_kim-the-vitnamese-computer-scientist-who-made-toy-story-possible.md)
+15. [📖 Theodore Kim *The Vietnamese Computer Scientist who made Toy Story Possible*](./texts/theodore_kim-the-vietnamese-computer-scientist-who-made-toy-story-possible.md)
 16. [🔗 Gloria Origgi *Kakonomics. Or, the strange preference for Low quality outcomes*](http://gloriaoriggi.blogspot.com/2011/01/kakonomics-or-strange-preference-for.html)
 17. [🔗 David Bandurski *Goldfish Memories*](https://chinamediaproject.org/2024/05/27/goldfish-memories/)
 18. [🔗 Mathild Habert *Eva W*](https://www.rotoluxpress.com/catalogue/eva-w)
