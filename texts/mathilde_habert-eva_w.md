@@ -168,7 +168,7 @@ Un petit garçon qui était dans mon école
 Un petit garçon sage  
 Son père l’avait assassiné avant de se pendre  
 Après cette histoire  
-J’ai longtemps eu peu de mon père
+J’ai longtemps eu peur de mon père
 
 Qui sont les pères ?
 
@@ -203,7 +203,7 @@ Qu’il lui est maintenant dur d’aimer
 
 Qui est ma petite sœur ?
 
-Le point le plus commun que j’ai avec els autres femmes  
+Le point le plus commun que j’ai avec les autres femmes  
 C’est d’avoir été violée  
 Où sommes-nous ?  
 Je ne me suis jamais masturbée  
@@ -311,7 +311,7 @@ Jamais
 Mon chien n’aboie pas  
 Parce qu’il s’est fait rouer de coups en Roumanie  
 Et qu’on lui a appris à coup de schlass à coup de trique de bâton de fouet de barre de fer  
-À se la tenir fermé
+À se la tenir fermée
 
 Qui sont les hommes qui tabassent les chiens ?
 
@@ -514,7 +514,7 @@ Il y a de la destructivité en vous
 Et il a rajouté une chose horrible  
 Une chose que je ne peux pas entendre  
 Il a dit :  
-Il y a de le destructivité en vus et votre mère y participe
+Il y a de le destructivité en vous et votre mère y participe
 
 Qui est-il ?  
 Je veux vérifier son identité  
